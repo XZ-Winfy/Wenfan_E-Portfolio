@@ -4,37 +4,62 @@ title: "Resume"
 
 # Education
 
--   List your education here. 
+#### The University of British Columbia *-* September 2020 to May 2024
 
-# Publications
+#### *Bachelor of Science in Mathematics* 
 
-*Peer-reviewed publications:*
+Key Modules: Advanced Multivariable Calculus, Linear Algebra, Statistical Computing, Data Structure & Algorithms
 
-- List any peer-reviewed publications here.
+#### The University of British Columbia *-* Expected May 2025
 
-*Reports:*
+#### *Master of Geomatics for Environmental Management* 
 
-- List any non-peer reviewed materials you'd like to share here.
+Key Modules: Landscape Ecology and Modeling, Geospatial Analysis, Environmental Management
 
-# Conferences & Talks
+# SKILLS
 
-*Invited Talks*
+**Software:** Qgis, Arcgis, Python (sklearn, pandas, numpy, opencv), SQL, Matlab, java, MS Office
 
-- If you've been invited to speak in a professional setting, list that here. 
+**Languages:** Mandarin (native), English (fluent), Cantonese (fluent), Japanese (basic)
 
-*Conference Presentations*
+# EXPERIENCE
 
-- If the presentation was at a conference, list them here. 
+**Hangzhou Eastern Communication Software Technology Co., Ltd*\|*** China **June – August 2023**
 
-# Awards & Honors
+*Artificial Intelligence Intern*
 
-- List any scholarships, bursaries, etc. 
+-   Developed AR optical cross-connection box recognition code. Implemented algorithms to identify ports in images of the optical cross-connection box (utilizing OpenCV for dilation, erosion, color enhancement and extraction). Generated mesh based on the identified red points. Q
 
+-   Developed a project aimed at identifying potential low-satisfaction users by analyzing user data. Utilized Python (sklearn) to train and compare various models. Contributed to API service development, docker image building and pushing.
 
-# Teaching Assistantships
+-   Engaged in predicting potential degradation in internet, transmission, and voice specialized lines by leveraging data analysis and machine learning techniques. Cleaned 5000 rows of raw data to ensure data quality and relevance. Utilized sklearn to train and compare various machine learning models, with the goal of creating accurate prediction models for detecting degradation in these specialized lines.
 
-- List any TA positions you may have held. 
+-   Completed the development of the API service for potential low-satisfaction users on OTN special lines, including coding, docker image packaging and pushing.
 
-# Institutional Service
+-   Collaborated on the drafting of a software copyright for the AR optical cross-connection box resource calibration application system. Designed the software interface and providing instructions for interactive buttons.
 
-- Volunteering etc. 
+# **ACTIVITIES**
+
+**Electric Vehicle Mapping Project*\|*** UBC **August 2024 – Present**
+
+Conducted research on how various spatial regions, road networks, and vehicle configurations impact EV range.
+
+Calculated optimal routes based on EV regenerative braking
+
+Displayed results on GIS maps for spatial analysis and decision support.
+
+**Imagine UBC Orientation*\|*** UBC **August 2021**
+
+*Orientation Leader*
+
+Cultivated and nurtured communities of friendship and a sense of belonging for new UBC students.
+
+Enhanced my abilities in group and online facilitation, effective communication, community development, and team building through active involvement and leadership in this event.
+
+**UBC Notetaker*\|*** UBC **September 2023 – April 2024**
+
+*Math 360 Notetaker*
+
+Produced high-quality notes covering course highlights and key concepts to aid students with disabilities.
+
+Utilized tools like Jupyter Notebook to create diverse and visually engaging notes with a combination of text, graphics, and examples to enhance learning effectiveness.

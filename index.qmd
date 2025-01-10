@@ -1,5 +1,5 @@
 ---
-title: "Your E-Portfolio"
+title: "Wenfan's E-Portfolio"
 image: images/MGEM_logo.png
 about:
   template: trestles
@@ -7,18 +7,15 @@ about:
   links: 
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
-    - icon: twitter
-      text: Twitter/X
-      href: https://x.com/MelserRamon
+      href: https://www.linkedin.com/in/wenfan-lin-514223232/
     - icon: github
       text: GitHub
-      href: https://github.com/ramonmelser
+      href: https://github.com/XZ-Winfy
     - icon: envelope-at
       text: Email
-      href: mailto:melser@student.ubc.ca
+      href: mailto:lin0331@student.ubc.ca
 ---
 
 Hey there,
 
-This is your E-Portfolio landing page. Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites. 
+I am a graduate student in the MGEM (Master of Geomatics for Environmental Management) program of UBC, with a strong background in mathematics, technology, and GIS. I’ve honed skills in software development, data analysis, and machine learning through projects like AR optical recognition and predictive modeling. I also have conducted an electric vehicle regenerative braking energy project, integrating GIS and data-driven methods. Looking ahead, I aim to contribute to innovative solutions in environmental management and sustainability.
